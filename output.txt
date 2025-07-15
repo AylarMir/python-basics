@@ -1,0 +1,4 @@
+Hello Aylar
+You're learning Python
+And it's going great!
+You're becoming a real dev!
