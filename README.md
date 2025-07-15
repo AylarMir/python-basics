@@ -1,2 +1,2 @@
 # python-basics
-Learning Python from scratch
+Learning Python from scratch - beginner exercises and notes.
